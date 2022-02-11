@@ -1,0 +1,15 @@
+sentence-splitter
+transformers
+SentencePiece
+torch
+googlesearch-python
+newspaper3k
+GoogleNews
+spacy
+nltk
+jupyter
+selenium
+gensim==3.8.3 
+opencv-python
+pandas
+git+https://github.com/PrithivirajDamodaran/Styleformer.git
