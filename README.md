@@ -8,6 +8,7 @@ Blog Automation for Generate AI based Blogs on routine basis same as like Conten
 **Intsall requirements.**
     
     1) pip install -r requirements.txt
+    2) pip install pynput
    
 Place your wordpress credentials in parameters.py
 Place your wordpress url in uploading.py
